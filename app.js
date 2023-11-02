@@ -39,3 +39,5 @@ cityForm.addEventListener('submit', async event => {
 
     cityForm.reset()
 })
+
+alert("Vercel não deixa fazer requets http. Link do projeto: https://github.com/Matthew159R/Weather-app")
